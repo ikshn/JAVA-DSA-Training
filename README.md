@@ -1,1 +1,1 @@
-# JAVA-DSA-Traiining
+# JAVA-DSA-Training
